@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>$id$</id>
+        <title>$title$</title>
+        <authors>Mobius Team</authors>
+        <version>$version$</version>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>$description$</description>
+        <copyright>$copyright$</copyright>
+        <dependencies>
+            <dependency id="Newtonsoft.Json" version="8.0.2" />
+            <dependency id="XSerializer" version="0.3.0" />
+        </dependencies>
+    </metadata>
+    <files />
+</package>

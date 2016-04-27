@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace SampleNuget
 {
-    public class Class1
+    public static class MainLibrary
     {
-        //test
+        public static bool ReturnTrue()
+        {
+            return true;
+        }
     }
 }
