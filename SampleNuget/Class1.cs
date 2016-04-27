@@ -8,5 +8,6 @@ namespace SampleNuget
 {
     public class Class1
     {
+        //test
     }
 }
